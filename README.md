@@ -1,4 +1,12 @@
-### Hi there 👋
+# Chung Yuen LEUNG
+## Free-lance programmer from Hong Kong
+### Interested in data analysis, music, movie and chef
+### And this is the profile page for brief introduction 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="profile.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="profile.jpg">
+ <img alt="profile-pic" src="profile.jpg">
+</picture>
 
 <!--
 **raymondlcy/raymondlcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
