@@ -1,7 +1,7 @@
 # Chung Yuen LEUNG
 ## Free-lance programmer from Hong Kong
 ### Interested in data analysis, music, movie and chef
-### And this is the profile page for brief introduction 👋
+### More info are comming soon! 👋
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="profile.jpg">
  <source media="(prefers-color-scheme: light)" srcset="profile.jpg">
